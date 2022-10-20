@@ -1,0 +1,11 @@
+D:\3 курс\Чернаева\pr4.3(2)_Korshikova\bin\Debug\pr4.3(2)_Korshikova.exe.config
+D:\3 курс\Чернаева\pr4.3(2)_Korshikova\bin\Debug\pr4.3(2)_Korshikova.exe
+D:\3 курс\Чернаева\pr4.3(2)_Korshikova\bin\Debug\pr4.3(2)_Korshikova.pdb
+D:\3 курс\Чернаева\pr4.3(2)_Korshikova\obj\Debug\pr4.3(2)_Korshikova.csproj.AssemblyReference.cache
+D:\3 курс\Чернаева\pr4.3(2)_Korshikova\obj\Debug\pr4.3(2)_Korshikova.csproj.SuggestedBindingRedirects.cache
+D:\3 курс\Чернаева\pr4.3(2)_Korshikova\obj\Debug\pr4._3_2__Korshikova.Form1.resources
+D:\3 курс\Чернаева\pr4.3(2)_Korshikova\obj\Debug\pr4._3_2__Korshikova.Properties.Resources.resources
+D:\3 курс\Чернаева\pr4.3(2)_Korshikova\obj\Debug\pr4.3(2)_Korshikova.csproj.GenerateResource.cache
+D:\3 курс\Чернаева\pr4.3(2)_Korshikova\obj\Debug\pr4.3(2)_Korshikova.csproj.CoreCompileInputs.cache
+D:\3 курс\Чернаева\pr4.3(2)_Korshikova\obj\Debug\pr4.3(2)_Korshikova.exe
+D:\3 курс\Чернаева\pr4.3(2)_Korshikova\obj\Debug\pr4.3(2)_Korshikova.pdb
